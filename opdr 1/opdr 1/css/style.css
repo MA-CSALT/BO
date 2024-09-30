@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-size: 140%;
+    font-family: sans-serif;
+}
+
+#pic1{
+    float: left;
+    border-radius: 100%;
+}
+
+#pic2{
+    float: right;
+}
+
+#pic3{
+    float: left;
+}
+
+#pic4{
+    float: right;
+}
+
+#first{
+    text-align: right;
+    margin-bottom: 300px;
+}
+
+#second{
+    margin-bottom: 300px;
+}
+
+#third{
+    text-align: right;
+    margin-bottom: 300px;
+}
+
+#fourth{
+    margin-bottom: 300px;
+}
+
+#fifth{
+    text-align: center;
+}
+
+article{
+    width: 80vw;
+    margin: 0 auto;
+    padding: 40px;
+    padding-top: 100px;
+}
+
+header{
+    padding: 20px;
+    padding-right: 69.7vw;
+    display: block;
+    /*figure this out*/
+    background: palevioletred;
+    position: fixed;
+    border-bottom: 1px solid black;
+}
+
+footer{
+    background: palevioletred;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+img{
+    width: 40%;
+}
+
